@@ -1,4 +1,4 @@
-# Hafta-11 Sql tablo görünümleri
+# Hafta-11 Kütüphane Projesi tablo görünümleri
 
 ![author](https://github.com/haticenurdincelsen/Hafta-11/assets/142350794/98e637a3-2cdc-4fe8-b325-e683b4a6ebce)
 ![book](https://github.com/haticenurdincelsen/Hafta-11/assets/142350794/45de6296-13f6-4605-ba41-207a9f3d4bf4)
